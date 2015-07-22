@@ -32,3 +32,4 @@ An interest group gathered around improving the Islandora user experience.
 * John Zhang (University of Oklahoma)
 * David Kemper (McMaster)
 * Paul Cummins (University of Tennessee)
+* Dennis Ogg (UCAR)
